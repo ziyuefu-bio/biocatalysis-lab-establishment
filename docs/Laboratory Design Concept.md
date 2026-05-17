@@ -2,7 +2,7 @@
 
 ### Laboratory Layout Overview
 The laboratory covers an area of 68 square meters in an "L"-shaped layout, as shown in Figure 1.
-<img src="images/unzoned-lab-layout.png" width="600" alt="Original Laboratory Floor Plan">
+<img src="images/original-lab-layout.png" width="500" alt="Original Laboratory Floor Plan">
 
 ### Project Overview and Requirements Analysis
 This project aims to engineer nitrilase through directed evolution and rational design to achieve highly efficient asymmetric hydrolysis of specific trifluoromethyl-containing racemic complex cyanohydrins into target fluorinated chiral carboxylic acids.
@@ -54,4 +54,4 @@ Given that the substrate (complex cyanohydrin) poses a risk of releasing highly 
 
 ### Experimental Workflow Overview
 In summary, this laboratory (see Figure 2 for the floor plan) establishes a unidirectional material and personnel workflow: Aseptic Operations -> Routine Biochemistry -> High-Risk Chemistry. This layout not only effectively reduces false-positive interference from bioaerosols on front-end molecular cloning but also locks the most hazardous chemical processes in the area with optimal ventilation and evacuation conditions. It provides a physical space that balances workflow efficiency with a foundational safety architecture, facilitating the full-cycle execution of industrial enzyme engineering.
-<img src="images/zoned-lab-layout.png" width="600" alt="Zoned Laboratory Layout with Functional Areas">
+<img src="images/zoned-lab-layout.png" width="500" alt="Zoned Laboratory Layout with Functional Areas">

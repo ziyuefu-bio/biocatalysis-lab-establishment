@@ -1,4 +1,4 @@
-# Industrial Biocatalysis Lab Setup: Enzyme Engineering Platform from Scratch
+# Equipment Selection BOM
 
 This repository contains the hardware specifications, procurement rationale, and standard operating procedures (SOPs) for building a modular, industrial-grade enzyme engineering platform from the ground up. 
 
